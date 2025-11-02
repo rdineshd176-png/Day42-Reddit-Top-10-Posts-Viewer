@@ -25,10 +25,6 @@ Clone or download this project.
 
 Open a terminal in the project directory.
 
-Run:
-
-bash
-
 python reddit_top10.py
 Enter a subreddit name (or press Enter for r/all).
 
